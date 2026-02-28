@@ -1,5 +1,5 @@
 # drone
-drone surveillance simulation (MATLAB)
+Drone surveillance simulation (MATLAB)
 MATLAB simulation of an autonomous drone performing systematic surveillance over an N × N park, searching for fires or missing persons. The drone follows a waypoint-based coverage strategy using a double integrator dynamic model and a PID controller for trajectory tracking.
 
 # system model
