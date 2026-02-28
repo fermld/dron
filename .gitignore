@@ -1,14 +1,27 @@
+# MATLAB autosave and backup files
 *.asv
 *.m~
 *.autosave
+
+# MATLAB figures and data
 *.fig
 *.mat
 *.mlx~
+
+# Simulink cache (if ever used)
 slprj/
 *.slxc
+
+# Code generation folders
 codegen/
+
+# OS files
 .DS_Store
 Thumbs.db
+
+# Editor folders
 .vscode/
 .idea/
+
+# Logs
 *.log
